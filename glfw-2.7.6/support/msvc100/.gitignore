@@ -1,0 +1,6 @@
+Debug/*
+DebugStatic/*
+Release/*
+ReleaseStatic/*
+GLFW.sdf
+GLFW.suo

@@ -1,4 +1,5 @@
 xpl-libbuilder
 ==============
 
-Library building repo for XPL.
+Source code for libraries used in the XPL project (private).
+
